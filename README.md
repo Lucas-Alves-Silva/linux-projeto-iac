@@ -1,3 +1,4 @@
+![Tux2](https://user-images.githubusercontent.com/65175946/218834784-5f281006-a456-43b1-9dd8-2d171b3e10e9.png)
 # Linux - Projeto IAC
 Repositório para os arquivos do primeiro projeto do Bootcamp de Linux da DIO.
 
